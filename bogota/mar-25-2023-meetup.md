@@ -18,7 +18,7 @@ TODO add link @danolar
 
 Horas: 1500 - 1900
 
-Fecha: Feb 25, 2023
+Fecha: March 25, 2023
 
 ### Instructions for arrival
 
