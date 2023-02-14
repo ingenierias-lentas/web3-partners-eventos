@@ -16,9 +16,9 @@ Tagline: Intro to Web3 Partners and local organizers. Info and stories about get
 
 ### Date and time
 
-Horas: 1800 - 2100
+Hours: 1800 - 2100
 
-Fecha: Feb 23, 2023
+Date: Feb 23, 2023
 
 ### Instructions for arrival
 
