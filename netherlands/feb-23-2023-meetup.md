@@ -8,7 +8,7 @@ Tagline: Intro to Web3 Partners and local organizers. Info and stories about get
 
 ## Accessibility
 
-*Info about how to arrive*
+*Info about how to arrive* {david}
 
 ### Location
 
