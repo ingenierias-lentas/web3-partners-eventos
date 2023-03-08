@@ -42,7 +42,7 @@ Eric Solomon
 | 1915 - 1945 | Paul Rouge - Blobble | Paul is going to talk about Blobble development, including: discussing issues. He wants to know how some of these issues could be solved. He also wants to know other creative ways to make NFTs other than static images (e.g. live HTML), and he wants collaborators | [Blobble](https://twitter.com/blobbleworld)|
 | 1945 - 2015 | David | David is going to talk about building an effective Proof of Stake validator. He will show different examples of validator influence and communication tactics. He will also discuss game theory between ecosystem design level and validator motivation. David wants to know from community what would get your vote, what incentivizes people to make a beneficial or adversarial decision, and if people are aware that it works like this | [Eye on ICON](https://twitter.com/EyeonIcon1), [Delegated Proof of Stake (DPoS)](https://www.geeksforgeeks.org/delegated-proof-of-stake/) |
 | 2015 - 2045 | Free discussion | Discuss freely, and maybe grab a drink or some food | |
-| 2045 - 2100 | Departures | Clear out the space and we will clean up| |
+| 2045 - 2100 | Departures | Clear out the space and we will clean up | |
 
 ## Further information
 
