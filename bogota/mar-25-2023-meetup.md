@@ -1,8 +1,8 @@
 ## Intro
 
 ```
-Title:
-Tagline:
+Title: Getting started in web3
+Tagline: Intro to Web3 Partners and local community. Info and stories about getting started in web3
 ```
 
 ## Accessibility
@@ -27,10 +27,14 @@ TODO @danolar
 ### Contact info
 
 Eric Solomon
+
 Discord : errcsool#9380
+
 Telegram : @errcsool
+
 Twitter : @errcsool
-Email : eric@icon.foundation
+
+Email : eric@ingenieriaslentas.com
 
 ## Schedule
 
