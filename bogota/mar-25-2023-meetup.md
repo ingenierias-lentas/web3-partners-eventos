@@ -27,14 +27,10 @@ TODO @danolar
 ### Contact info
 
 Eric Solomon
-
-Discord : errcsool#9380
-
-Telegram : @errcsool
-
-Twitter : @errcsool
-
-Email : eric@ingenieriaslentas.com
+- Discord : errcsool#9380
+- Telegram : @errcsool
+- Twitter : @errcsool
+- Email : eric@ingenieriaslentas.com
 
 ## Schedule
 
@@ -50,6 +46,6 @@ Email : eric@ingenieriaslentas.com
 
 ## Further information
 
-If you would like to be a future speaker, please download and fill out [this form](https://forms.gle/fKKngqNhiM9rzE3g9) or contact an event organizer
+If you would like to be a future speaker, please and fill out [this form](https://forms.gle/fKKngqNhiM9rzE3g9) or contact an event organizer
 
 If you would like to plan a Web3 Partners event, please fill out [this form](https://forms.gle/Pi8sQGzBc5d1wwqJA) or contact an event organizer
