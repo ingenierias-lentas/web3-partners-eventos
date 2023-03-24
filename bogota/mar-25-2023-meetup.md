@@ -21,7 +21,7 @@ Fecha: March 25, 2023
 
 ### Instructions for arrival
 
-When you arrive at one of the nearby parking lots, enter the high-tech mall and head to the third floor where you will find the auditorium where the event will be held.
+When you arrive at one of the nearby parking lots, enter the mall "Centro de alta tecnologia" and head to the third floor where you will find the auditorium where the event will be held.
 
 ### Contact info
 
