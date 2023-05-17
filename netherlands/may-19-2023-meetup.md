@@ -27,8 +27,9 @@ May 19, 2023
 | Time         | Name      | Description      | Resources          |
 |--------------|-----------|------------------|--------------------|
 | 1830 - 1915 | Arrivals  | Come and sign in | |
-| 1915 - 2015 | Panel discussion and Q&A | On the crossover between web3 and fashion. Featuring Krisha Bhawanidin - X-Nike Metaverse & NFT, Raúl Cerezo - CEO & Founder of @AVØLVE, Emily Barker - 'Arts, Culture, and Society', and Cosmin Gafta (moderator) - Web3 Business Development @YOM | [Krishna Bhawanidin](https://www.linkedin.com/in/krishna-b-/), [Raúl Cerezo](https://www.linkedin.com/in/raulcerezo/), [Emily Barker](https://www.linkedin.com/in/emily-barker-120b52226), [Cosmin Gafta](https://www.linkedin.com/in/cosmin-gafta/) |
-| 2015 - 2100 | Break - Networking | Discuss, eat snacks, and network | |
+| 1915 - 1930 | Keynote by Hilario Pedro | Discussing digital streetwear | [Hilario Pedro](https://www.linkedin.com/in/firehill/) Web3 Lead @ [The Fabricant](https://www.thefabricant.com/) |
+| 1930 - 2030 | Panel discussion and Q&A | On the crossover between web3 and fashion. Featuring Krisha Bhawanidin - X-Nike Metaverse & NFT, Raúl Cerezo - CEO & Founder of @AVØLVE, Emily Barker - 'Arts, Culture, and Society', and Cosmin Gafta (moderator) - Web3 Business Development @YOM | [Krishna Bhawanidin](https://www.linkedin.com/in/krishna-b-/), [Raúl Cerezo](https://www.linkedin.com/in/raulcerezo/), [Emily Barker](https://www.linkedin.com/in/emily-barker-120b52226), [Cosmin Gafta](https://www.linkedin.com/in/cosmin-gafta/) |
+| 2030 - 2100 | Break - Networking | Discuss, eat snacks, and network | |
 
 ## Further information
 
